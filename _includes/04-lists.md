@@ -1,4 +1,4 @@
-* :tada:
+* YOLO
 * Lol
   * ok
   * No
