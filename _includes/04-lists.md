@@ -3,9 +3,9 @@
   * ok
   * No
 
-1. Item 1
-2. Item 2
-    1. Item 2.1
-    2. Item 2.2
-      3. Item 2.3
+1. Banane   
+2. Chocolat
+    1. blanc    
+    2. Noir
+      3. Noir et fraise
 
